@@ -1,4 +1,4 @@
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo 
+San sebastian cheesecake tarifi
 # Yeni repo
-![Kodluyoruz Resim](https://avatars.githubusercontent.com/u/30476529?s=280&v=4)
+![San Sebastiyan](https://cdn.yemek.com/mnresize/940/940/uploads/2018/09/san-sebastian-site-buyuk.jpg)
